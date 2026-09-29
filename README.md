@@ -10,7 +10,7 @@ Backend engineer at **MOSI**, building the API gateway for AI models and the sch
 
 ### About
 
-- Day job: AI model API gateway + scheduling and orchestration of inference clusters on Kubernetes, mostly in Go; previously at Alibaba
+- Day job: AI model API gateway + scheduling and orchestration of inference clusters on Kubernetes, mostly in Go
 - Inference stack: working closely with sglang / vllm developers, gradually getting hands-on deeper in the stack
 - Hobby that might go somewhere: GPU kernels, Triton / TileLang, poking around compilers
 - Side quests: agent skills & workflows, a personal quant trading system
