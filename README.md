@@ -1,19 +1,18 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1500&color=4488EE&center=true&vCenter=true&width=560&lines=GPU+%C2%B7+Compilers+%C2%B7+Inference+Systems;Triton+%2F+TileLang+kernel+work;Agent+tooling+%26+infrastructure" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1500&color=4488EE&center=true&vCenter=true&width=560&lines=Backend+engineer+%40+MOSI;MaaS+%2F+PaaS+infrastructure;GPU+kernels+%26+compilers%2C+for+fun" alt="Typing SVG" /></a>
 
 # Hi, I'm AL76
 
-Systems engineer — I work on GPU kernels, compilers, and high-performance inference infrastructure, and build agent tooling on the side. I like understanding systems from the metal up.
+Backend engineer at **MOSI (模思智能)**, working on MaaS / PaaS. Still fairly new to the industry and learning a lot every day. Outside of work I poke at GPU kernels and compilers — mostly out of curiosity.
 
 </div>
 
-### What I'm up to
+### About
 
-- GPU kernel optimization; compiler contributions around **Triton** and **TileLang**
-- LLM inference systems: gateways, scheduling, caching, observability — mostly in Go
-- Benchmarking and performance analysis on B200-class hardware
-- Side quests: agent skills & workflows, trading systems
+- Day job: backend for MaaS / PaaS at MOSI — model serving platforms, mostly in Go
+- Hobby that might go somewhere: GPU kernels, Triton / TileLang, poking around compilers
+- Side quests: agent skills & workflows, small tools and toys
 
 ### Featured projects
 
@@ -29,10 +28,8 @@ Systems engineer — I work on GPU kernels, compilers, and high-performance infe
 <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" />
-<img src="https://img.shields.io/badge/-Triton-7B61FF?style=flat" alt="Triton" />
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
