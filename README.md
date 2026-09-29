@@ -36,8 +36,14 @@ Backend engineer at **MOSI (模思智能)**, working on MaaS / PaaS. Still fairl
 ### Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=KX76&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=KX76&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=KX76&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+    <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=KX76&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=0969da&text_color=59636e&icon_color=0969da" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=KX76&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" />
+    <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=KX76&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=59636e" alt="Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
