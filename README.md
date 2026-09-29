@@ -1,16 +1,16 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1500&color=4488EE&center=true&vCenter=true&width=560&lines=Backend+engineer+%40+MOSI+%C2%B7+ex-Alibaba;MaaS+%2F+PaaS+%26+LLM+inference;GPU+kernels+%26+compilers%2C+for+fun" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1500&color=4488EE&center=true&vCenter=true&width=560&lines=Backend+engineer+%40+MOSI;AI+gateway+%2B+inference+clusters+on+k8s;GPU+kernels+%26+compilers%2C+for+fun" alt="Typing SVG" /></a>
 
 # Hi, I'm AL76
 
-Backend engineer at **MOSI (模思智能)**, working on MaaS / PaaS — previously at **Alibaba**. I collaborate closely with the sglang / vllm community and spend a fair amount of time in the inference stack. Always learning; outside of work I poke at GPU kernels and compilers for fun.
+Backend engineer at **MOSI**, building the API gateway for AI models and the scheduling / orchestration layer for inference clusters on **Kubernetes**. I collaborate closely with the sglang / vllm community and spend a fair amount of time in the inference stack. Always learning; outside of work I poke at GPU kernels and compilers for fun. Previously at **Alibaba**.
 
 </div>
 
 ### About
 
-- Day job: backend for MaaS / PaaS at MOSI — model serving platforms, mostly in Go; previously at Alibaba
+- Day job: AI model API gateway + scheduling and orchestration of inference clusters on Kubernetes, mostly in Go; previously at Alibaba
 - Inference stack: working closely with sglang / vllm developers, gradually getting hands-on deeper in the stack
 - Hobby that might go somewhere: GPU kernels, Triton / TileLang, poking around compilers
 - Side quests: agent skills & workflows, a personal quant trading system
