@@ -1,11 +1,64 @@
 <div align="center">
 
-*“Intelligence is one of the greatest human gifts. But all too often a search for knowledge drives out the search for love.”*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1500&color=4488EE&center=true&vCenter=true&width=560&lines=GPU+%C2%B7+Compilers+%C2%B7+Inference+Systems;Triton+%2F+TileLang+kernel+work;Agent+tooling+%26+infrastructure" alt="Typing SVG" /></a>
 
+# Hi, I'm AL76
+
+Systems engineer — I work on GPU kernels, compilers, and high-performance inference infrastructure, and build agent tooling on the side. I like understanding systems from the metal up.
+
+</div>
+
+### What I'm up to
+
+- GPU kernel optimization; compiler contributions around **Triton** and **TileLang**
+- LLM inference systems: gateways, scheduling, caching, observability — mostly in Go
+- Benchmarking and performance analysis on B200-class hardware
+- Side quests: agent skills & workflows, trading systems
+
+### Featured projects
+
+| Project | What it is |
+| --- | --- |
+| [gpu-3d-viz](https://github.com/KX76/gpu-3d-viz) | Offline 3D GPU architecture explorer — TypeScript, Three.js, schematic instruction flows |
+| [Netrunner](https://github.com/KX76/Netrunner) | Building HTTP from the ground up in Golang |
+| [explain-and-map](https://github.com/KX76/explain-and-map) | An Agent Skill for clear, verifiable explanations of concepts and systems |
+
+### Toolbox
+
+<p>
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/-Triton-7B61FF?style=flat" alt="Triton" />
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+### Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=KX76&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=KX76&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KX76&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
+<div align="center">
+
+*“Intelligence is one of the greatest human gifts. But all too often a search for knowledge drives out the search for love.”*
+
 > Intelligence is one of the greatest human gifts. But all too often a search for knowledge drives out the search for love. This is something else I've discovered for myself very recently. I present it to you as a hypothesis: Intelligence without the ability to give and receive affection leads to mental and moral breakdown, to neurosis, and possibly even psychosis. And I say that the mind absorbed in and involved in itself as a self-centered end, to a self-centered exclusion of human relationships, can only lead to violence and pain.
 >
 > — **Daniel Keyes**, *Flowers for Algernon*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=KX76&color=4488EE&style=flat&label=visitors" alt="visitors" />
+
+</div>
