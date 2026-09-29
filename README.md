@@ -48,7 +48,7 @@ Backend engineer at **MOSI**, building the API gateway for AI models and the sch
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KX76&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=KX76&theme=transparent&hide_border=true&card_width=600" alt="GitHub Streak" />
 </div>
 
 ---
