@@ -1,18 +1,19 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1500&color=4488EE&center=true&vCenter=true&width=560&lines=Backend+engineer+%40+MOSI;MaaS+%2F+PaaS+infrastructure;GPU+kernels+%26+compilers%2C+for+fun" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1500&color=4488EE&center=true&vCenter=true&width=560&lines=Backend+engineer+%40+MOSI+%C2%B7+ex-Alibaba;MaaS+%2F+PaaS+%26+LLM+inference;GPU+kernels+%26+compilers%2C+for+fun" alt="Typing SVG" /></a>
 
 # Hi, I'm AL76
 
-Backend engineer at **MOSI (模思智能)**, working on MaaS / PaaS. Still fairly new to the industry and learning a lot every day. Outside of work I poke at GPU kernels and compilers — mostly out of curiosity.
+Backend engineer at **MOSI (模思智能)**, working on MaaS / PaaS — previously at **Alibaba**. I collaborate closely with the sglang / vllm community and spend a fair amount of time in the inference stack. Always learning; outside of work I poke at GPU kernels and compilers for fun.
 
 </div>
 
 ### About
 
-- Day job: backend for MaaS / PaaS at MOSI — model serving platforms, mostly in Go
+- Day job: backend for MaaS / PaaS at MOSI — model serving platforms, mostly in Go; previously at Alibaba
+- Inference stack: working closely with sglang / vllm developers, gradually getting hands-on deeper in the stack
 - Hobby that might go somewhere: GPU kernels, Triton / TileLang, poking around compilers
-- Side quests: agent skills & workflows, small tools and toys
+- Side quests: agent skills & workflows, a personal quant trading system
 
 ### Featured projects
 
